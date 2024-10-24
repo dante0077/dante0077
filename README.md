@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Saurav and I'm a Software Developer, from India</p>
+<p align="left">My name is Saurav and I'm a Software Engineer, from India</p>
 
 ###
 
