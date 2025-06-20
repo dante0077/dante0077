@@ -31,8 +31,8 @@
 <h2 align="left">📊 GitHub Stats</h2>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sauravadusumilli&show_icons=true&theme=react&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravadusumilli&layout=compact&theme=react&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dante0077&show_icons=true&theme=react&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dante0077&layout=compact&theme=react&hide_border=true" height="180" />
 </div>
 
 ---
