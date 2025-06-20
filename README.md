@@ -1,66 +1,81 @@
-<h1 align="left">Hey there,</h1>
+<h1 align="left">Hey there 👋</h1>
 
-###
+<p align="left">
+  I'm <strong>Saurav Adusumilli</strong>, a passionate Software Engineer from India 🇮🇳, specializing in building scalable and robust backend systems. With 3+ years of experience in backend development and a strong focus on distributed systems, I thrive at the intersection of engineering excellence and business impact.
+</p>
 
-<p align="left">My name is Saurav and I'm a Software Engineer, from India</p>
+---
 
-###
+<h2 align="left">🚀 About Me</h2>
 
-<h2 align="left">About me</h2>
+<ul align="left">
+  <li>🔭 Currently building: Scalable microservices using Java & Spring Boot</li>
+  <li>🌱 Currently learning: <strong>Go</strong> and diving deeper into <strong>System Design</strong></li>
+  <li>🧠 Strong in: <code>Node.js, TypeScript, PostgreSQL, Redis, Docker, AWS</code></li>
+  <li>💬 Ask me about: Backend architecture, REST/GraphQL APIs, Clean Code, and DevOps basics</li>
+  <li>🎯 2025 Goal: Build and deploy an NLP model that solves real-world problems</li>
+  <li>📈 Exploring: AI SaaS, vertical agents, and cloud-native performance optimizations</li>
+  <li>⚡ Fun fact: I love breaking down complex systems into clean, testable modules</li>
+</ul>
 
-###
+---
 
-<p align="left">📚 I'm currently learning Go.<br>🎯 Goals: Build an NLP model.</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
+<h2 align="left">🛠️ Tech Stack</h2>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,java,go,postgres,redis,docker,kubernetes,graphql,jest,git,github,gitlab,aws,gcp" height="40" />
 </div>
 
-###
+---
+
+<h2 align="left">📊 GitHub Stats</h2>
 
 <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sauravadusumilli&show_icons=true&theme=react&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravadusumilli&layout=compact&theme=react&hide_border=true" height="180" />
+</div>
+
+---
+
+<h2 align="left">📫 Connect with Me</h2>
+
+<p align="left">
   <a href="https://www.linkedin.com/in/saurav-adusumilli-9967741a0/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin" />
   </a>
   <a href="https://discord.gg/RjYSPNeb" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://skillicons.dev/icons?i=discord" height="30" alt="discord" />
   </a>
-</div>
+</p>
 
-###
+---
+
+<h2 align="left">📌 Featured Projects</h2>
+
+> ✅ Add links here to 2–3 of your best projects with a one-line description each (backend systems, tools, open-source contributions, etc.)
+
+```markdown
+- 🔐 **AI Cover Letter Generator** – AI-powered SaaS app helping job seekers craft tailored cover letters. Integrated with Stripe, OpenAI, and secure user auth.
+- 🛒 **E-Commerce Microservice System** – Built with Java + Spring Boot, includes product catalog, payments, order mgmt & Redis caching.
+- 📊 **Performance Monitor CLI Tool** – Lightweight tool to analyze server bottlenecks in Node.js applications.
+```
+<h2 align="left">💼 Why Hire Me?</h2>
+If you're looking for a backend engineer who:
+
+Writes clean, maintainable, and scalable code
+
+Understands both monolithic and microservice architectures
+
+Has production-level experience with cloud platforms (AWS/GCP)
+
+Can ramp up on new tech quickly (currently learning Go + NLP)
+
+Brings initiative, product thinking, and a collaborative spirit
+
+Then I’d love to chat! Let’s build something impactful together 🚀
+
+yaml
+Copy
+Edit
+
+---
