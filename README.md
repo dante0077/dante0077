@@ -68,11 +68,11 @@
   <a href="https://www.linkedin.com/in/saurav-adusumilli-9967741a0/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin" />
   </a>
-  <a href="https://discord.gg/RjYSPNeb" target="_blank">
+  <a href="https://discord.gg/qXUbhWZm" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="30" alt="discord" />
   </a>
   &nbsp;&nbsp;
-  📧 <strong>sauravadusumilli[at]gmail[dot]com</strong>
+  📧 <strong>saurav.7893@gmail.com</strong>
 </p>
 
 ---
